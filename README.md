@@ -1,2 +1,1 @@
-# .github
-Hello, World!
+# Hello, World!
